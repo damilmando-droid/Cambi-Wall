@@ -1,0 +1,6 @@
+{
+  "name": "Cambi Wall",
+  "description": "Consulta la resolución de tu celular, personaliza fondos de pantalla con textos en 3D, y aplícalos perfectamente sin perder calidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
